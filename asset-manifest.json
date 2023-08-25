@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/itzy-steakers.react/static/css/main.3ee02411.css",
+    "main.js": "/itzy-steakers.react/static/js/main.e0af7370.js",
+    "index.html": "/itzy-steakers.react/index.html",
+    "main.3ee02411.css.map": "/itzy-steakers.react/static/css/main.3ee02411.css.map",
+    "main.e0af7370.js.map": "/itzy-steakers.react/static/js/main.e0af7370.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ee02411.css",
+    "static/js/main.e0af7370.js"
+  ]
+}
